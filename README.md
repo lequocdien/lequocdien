@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![image](https://github.com/lequocdien/lequocdien/assets/39084172/f303b49f-8f3b-49b5-b1a7-ddbddc138391)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" /> <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYwZTY3OWYwZGIyMDkzM2RhNGRiN2MwZTgxMGZhMzZiNGU5ZTJkYyZjdD1z/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/>
+</div>
 
 <!--
 **lequocdien/lequocdien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
