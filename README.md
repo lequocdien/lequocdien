@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/lequocdien/lequocdien/assets/39084172/f303b49f-8f3b-49b5-b1a7-ddbddc138391)
+
 <!--
 **lequocdien/lequocdien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
